@@ -1,0 +1,151 @@
+html {
+    background-image: url(bilder/backgroundmain.jpg);
+    background-size: cover;
+}
+
+h3 {
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.background {
+    position: absolute;
+    background-size: cover;
+    top: 47%;
+    left: 5%;
+    height: 50%;
+}
+
+.background2 {
+    position: absolute;
+    background-size: cover;
+    top: 47%;
+    left: 60%;
+    height: 50%;
+}
+
+div.flexbox {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/*div.frpdiv {
+    left: -4%;
+    height: 80px;
+    width: 50px;
+}*/ 
+
+.frppic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 44px;
+    left: 42.5%;
+
+}
+
+/*div.hdiv {
+    left: 7%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.hpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 40px;
+    left: 38%;
+}
+
+/*div.vdiv {
+    left: 19%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.vpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 43%;
+}
+
+/*div.krfdiv {
+    left: 29.5%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.krfpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 43%;
+}
+
+/*div.mdgdiv {
+    left: 40%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.mdgpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 38%;
+}
+
+/*div.spdiv {
+    left: 51.60%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.sppic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 43%;
+}
+
+/*div.apdiv {
+    left: 60.75%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.appic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 44%;
+}
+
+/*div.svdiv {
+    left: 70%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.svpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 38%;
+}
+
+/*div.rdiv {
+    left: 79.5%;
+    height: 200px;
+    width: 300px;
+}*/
+
+.rpic {
+    margin-left: 0%;
+    margin-top: 8%;
+    height: 45px;
+    left: 42.5%;
+}

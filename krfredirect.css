@@ -1,0 +1,16 @@
+.thx {
+    margin-top: 29%;
+    font-size: 500%;
+}
+html {
+    background-image: url(bilder/thankyoubackground.png);
+    background-size: cover;
+}
+
+.krfleder {
+    height: 75%;
+    position: absolute;
+    bottom: 0%;
+    left: 35%;
+    z-index: -1;
+}

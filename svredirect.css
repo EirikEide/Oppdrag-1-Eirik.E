@@ -1,0 +1,16 @@
+.thx {
+    margin-top: 27%;
+    font-size: 500%;
+}
+html {
+    background-image: url(bilder/thankyoubackground.png);
+    background-size: cover;
+}
+
+.svleder {
+    height: 78%;
+    position: absolute;
+    bottom: 0%;
+    left: 38%;
+    z-index: -1;
+}
